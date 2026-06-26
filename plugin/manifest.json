@@ -1,0 +1,11 @@
+{
+  "name": "Fusion exporter",
+  "id": "afb55ad9-258a-4d1a-84fa-a8713fb2c47f",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "relaunchButtons": [
+    { "command": "afb55ad9-258a-4d1a-84fa-a8713fb2c47f", "name": "Fusion exporter" }
+  ]
+}
